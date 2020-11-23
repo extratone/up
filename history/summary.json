@@ -5,7 +5,7 @@
     "slug": "extratone",
     "status": "up",
     "uptime": "100.00%",
-    "time": 945
+    "time": 1184
   },
   {
     "name": "Bilge",
@@ -13,7 +13,7 @@
     "slug": "bilge",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1035
+    "time": 1169
   },
   {
     "name": "XYZ",
@@ -21,7 +21,7 @@
     "slug": "xyz",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1130
+    "time": 780
   },
   {
     "name": "WTF",
@@ -29,7 +29,7 @@
     "slug": "wtf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3034
+    "time": 2136
   },
   {
     "name": "Honk",
@@ -37,14 +37,14 @@
     "slug": "honk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1505
+    "time": 1172
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "Shife",
+    "url": "https://shife.writeas.com",
+    "slug": "shife",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 596
   }
 ]
