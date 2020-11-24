@@ -19,9 +19,9 @@
     "name": "XYZ",
     "url": "https://davidblue.xyz",
     "slug": "xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 706
+    "status": "down",
+    "uptime": "99.96%",
+    "time": 529
   },
   {
     "name": "WTF",
