@@ -5,7 +5,7 @@
     "slug": "extratone",
     "status": "up",
     "uptime": "100.00%",
-    "time": 994
+    "time": 981
   },
   {
     "name": "Bilge",
@@ -13,7 +13,7 @@
     "slug": "bilge",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1070
+    "time": 1082
   },
   {
     "name": "XYZ",
@@ -21,15 +21,15 @@
     "slug": "xyz",
     "status": "up",
     "uptime": "100.00%",
-    "time": 590
+    "time": 591
   },
   {
     "name": "WTF",
     "url": "https://davidblue.wtf",
     "slug": "wtf",
     "status": "up",
-    "uptime": "99.76%",
-    "time": 1989
+    "uptime": "99.78%",
+    "time": 2101
   },
   {
     "name": "Honk",
@@ -37,7 +37,7 @@
     "slug": "honk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 999
+    "time": 1001
   },
   {
     "name": "Shife",
@@ -45,6 +45,6 @@
     "slug": "shife",
     "status": "up",
     "uptime": "100.00%",
-    "time": 521
+    "time": 511
   }
 ]
