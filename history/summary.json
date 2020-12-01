@@ -3,17 +3,17 @@
     "name": "Extratone",
     "url": "https://www.extratone.com",
     "slug": "extratone",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 865
+    "status": "up",
+    "uptime": "99.87%",
+    "time": 884
   },
   {
     "name": "Bilge",
     "url": "https://bilge.world",
     "slug": "bilge",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 996
+    "status": "up",
+    "uptime": "99.87%",
+    "time": 1012
   },
   {
     "name": "XYZ",
@@ -43,8 +43,8 @@
     "name": "Shife",
     "url": "https://shife.writeas.com",
     "slug": "shife",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 450
+    "status": "up",
+    "uptime": "99.87%",
+    "time": 464
   }
 ]
