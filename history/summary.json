@@ -3,17 +3,17 @@
     "name": "Extratone",
     "url": "https://www.extratone.com",
     "slug": "extratone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 981
+    "time": 865
   },
   {
     "name": "Bilge",
     "url": "https://bilge.world",
     "slug": "bilge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1082
+    "time": 996
   },
   {
     "name": "XYZ",
@@ -21,15 +21,15 @@
     "slug": "xyz",
     "status": "up",
     "uptime": "100.00%",
-    "time": 591
+    "time": 582
   },
   {
     "name": "WTF",
     "url": "https://davidblue.wtf",
     "slug": "wtf",
     "status": "up",
-    "uptime": "99.78%",
-    "time": 2101
+    "uptime": "99.85%",
+    "time": 2087
   },
   {
     "name": "Honk",
@@ -37,14 +37,14 @@
     "slug": "honk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1001
+    "time": 1006
   },
   {
     "name": "Shife",
     "url": "https://shife.writeas.com",
     "slug": "shife",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 511
+    "time": 450
   }
 ]
