@@ -3,16 +3,16 @@
     "name": "Extratone",
     "url": "https://www.extratone.com",
     "slug": "extratone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "time": 888
+    "time": 824
   },
   {
     "name": "Bilge",
     "url": "https://bilge.world",
     "slug": "bilge",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "time": 1039
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://shife.writeas.com",
     "slug": "shife",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "time": 479
   }
 ]
