@@ -5,7 +5,7 @@
     "slug": "extratone",
     "status": "up",
     "uptime": "99.87%",
-    "time": 884
+    "time": 888
   },
   {
     "name": "Bilge",
@@ -13,7 +13,7 @@
     "slug": "bilge",
     "status": "up",
     "uptime": "99.87%",
-    "time": 1012
+    "time": 1039
   },
   {
     "name": "XYZ",
@@ -21,7 +21,7 @@
     "slug": "xyz",
     "status": "up",
     "uptime": "100.00%",
-    "time": 582
+    "time": 622
   },
   {
     "name": "WTF",
@@ -29,7 +29,7 @@
     "slug": "wtf",
     "status": "up",
     "uptime": "99.85%",
-    "time": 2087
+    "time": 2128
   },
   {
     "name": "Honk",
@@ -37,7 +37,7 @@
     "slug": "honk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 972
+    "time": 1010
   },
   {
     "name": "Shife",
@@ -45,6 +45,6 @@
     "slug": "shife",
     "status": "up",
     "uptime": "99.87%",
-    "time": 464
+    "time": 479
   }
 ]
