@@ -1,7 +1,7 @@
 url: https://www.extratone.com
-status: up
-code: 200
-responseTime: 597
-lastUpdated: 2021-03-09T23:23:34.722Z
+status: down
+code: 502
+responseTime: 476
+lastUpdated: 2021-03-10T19:53:17.677Z
 startTime: Tue Jan 05 2021 18:19:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
