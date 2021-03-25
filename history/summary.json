@@ -63,11 +63,11 @@
     "url": "https://davidblue.xyz",
     "icon": "https://favicons.githubusercontent.com/davidblue.xyz",
     "slug": "xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 600,
     "timeDay": 1687,
@@ -75,7 +75,7 @@
     "timeMonth": 204,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2021-03-25": 5,
+      "2021-03-25": 0,
       "2021-01-22": 47,
       "2021-01-20": 112,
       "2020-12-09": 45
@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 3187,
     "dailyMinutesDown": {
-      "2021-03-25": 1388,
+      "2021-03-25": 1394,
       "2021-03-24": 1440,
       "2021-03-23": 1440,
       "2021-03-22": 1440,
