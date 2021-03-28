@@ -6,16 +6,18 @@ repo: up # Your Github repository name
 sites:
   - name: Extratone
     url: https://www.extratone.com
-  - name: Bilge
+  - name: *The Psalms*
     url: https://bilge.world
   - name: XYZ
     url: https://davidblue.xyz
-  - name: WTF
-    url: https://davidblue.wtf
+  - name: Social Directory (Notion)
+    url: https://www.notion.so/9fdc8e9610b34b8f991ebc148b760055?v=c170b58650c04fbdb7adc551a73d16a7
   - name: Honk
     url: https://dieselgoth.com
-  - name: Shife
-    url: https://shife.writeas.com
+  - name: Handset
+    url: https://handset.writeas.com/
+  - name: Handset (WP Test)
+    url: https://handsetmag.wordpress.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
