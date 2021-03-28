@@ -24,10 +24,11 @@ status-website:
   baseUrl: /up
   logoUrl: https://i.snap.as/lBCNqyG.png
   name: Up!
-  introTitle: "UP - EXTRANET"
+  introTitle: "UP - EXTRANET STATUS"
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  theme: ocean
   navbar:
-    - title: Status
+    - title: Extranet Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
