@@ -1,12 +1,15 @@
 # Change these first
 owner: extratone # Your GitHub username
 repo: up # Your Github repository name
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
 
 # Add your sites here
 sites:
   - name: Extratone
     url: https://www.extratone.com
-  - name: *The Psalms*
+  - name: Bilge
     url: https://bilge.world
   - name: XYZ
     url: https://davidblue.xyz
