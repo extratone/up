@@ -4,10 +4,10 @@
     "url": "https://www.extratone.com",
     "icon": "https://favicons.githubusercontent.com/www.extratone.com",
     "slug": "extratone",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.80%",
     "time": 1851,
@@ -16,6 +16,7 @@
     "timeMonth": 722,
     "timeYear": 1851,
     "dailyMinutesDown": {
+      "2021-05-08": 1,
       "2021-02-02": 18,
       "2020-12-10": 246,
       "2020-12-09": 20,
@@ -34,10 +35,10 @@
     "url": "https://bilge.world",
     "icon": "https://favicons.githubusercontent.com/bilge.world",
     "slug": "bilge",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 1692,
@@ -46,6 +47,7 @@
     "timeMonth": 1183,
     "timeYear": 1692,
     "dailyMinutesDown": {
+      "2021-05-08": 1,
       "2021-02-02": 18,
       "2020-12-10": 246,
       "2020-12-09": 19,
@@ -121,9 +123,9 @@
     "url": "https://handset.writeas.com/",
     "icon": "https://favicons.githubusercontent.com/handset.writeas.com",
     "slug": "handset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +134,9 @@
     "timeWeek": 436,
     "timeMonth": 508,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-08": 0
+    }
   },
   {
     "name": "Handset (WP Test)",
