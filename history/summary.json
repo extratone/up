@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2021-11-13": 1363,
+      "2021-11-13": 1378,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
@@ -217,7 +217,7 @@
     "timeMonth": 229,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2021-11-13": 1363,
+      "2021-11-13": 1378,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
@@ -409,19 +409,19 @@
     "url": "https://handsetmag.wordpress.com",
     "icon": "https://favicons.githubusercontent.com/handsetmag.wordpress.com",
     "slug": "handset-wp-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 417,
-    "timeWeek": 359,
-    "timeMonth": 376,
-    "timeYear": 452,
+    "time": 451,
+    "timeDay": 384,
+    "timeWeek": 355,
+    "timeMonth": 374,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2021-11-13": 0
+      "2021-11-13": 16
     }
   }
 ]
