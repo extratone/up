@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.35%",
-    "time": 1253,
-    "timeDay": 689,
-    "timeWeek": 930,
+    "uptimeYear": "99.44%",
+    "time": 1252,
+    "timeDay": 637,
+    "timeWeek": 906,
     "timeMonth": 771,
-    "timeYear": 973,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2021-12-06": 24,
       "2021-10-16": 19,
@@ -31,8 +31,7 @@
       "2021-05-09": 121,
       "2021-05-08": 652,
       "2021-02-02": 18,
-      "2020-12-10": 246,
-      "2020-12-09": 20
+      "2020-12-10": 246
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://favicons.githubusercontent.com/bilge.world",
     "slug": "bilge",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.93%",
     "time": 1467,
-    "timeDay": 1148,
-    "timeWeek": 1592,
-    "timeMonth": 1412,
-    "timeYear": 1309,
+    "timeDay": 1253,
+    "timeWeek": 1604,
+    "timeMonth": 1414,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2021-12-06": 23,
       "2021-10-16": 18,
@@ -70,8 +69,7 @@
       "2021-05-09": 165,
       "2021-05-08": 645,
       "2021-02-02": 18,
-      "2020-12-10": 246,
-      "2020-12-09": 19
+      "2020-12-10": 246
     }
   },
   {
@@ -80,18 +78,19 @@
     "icon": "https://favicons.githubusercontent.com/davidblue.xyz",
     "slug": "xyz",
     "status": "down",
-    "uptime": "77.79%",
+    "uptime": "77.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.79%",
+    "uptimeYear": "77.56%",
     "time": 457,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2021-12-08": 58,
+      "2021-12-09": 56,
+      "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
@@ -172,8 +171,7 @@
       "2021-06-25": 15,
       "2021-05-23": 30,
       "2021-01-22": 47,
-      "2021-01-20": 112,
-      "2020-12-09": 45
+      "2021-01-20": 112
     }
   },
   {
@@ -188,8 +186,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 435,
-    "timeWeek": 204,
+    "timeDay": 164,
+    "timeWeek": 201,
     "timeMonth": 299,
     "timeYear": 256,
     "dailyMinutesDown": {}
@@ -206,10 +204,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
-    "timeDay": 409,
-    "timeWeek": 475,
-    "timeMonth": 409,
-    "timeYear": 418,
+    "timeDay": 383,
+    "timeWeek": 486,
+    "timeMonth": 406,
+    "timeYear": 417,
     "dailyMinutesDown": {}
   },
   {
@@ -218,18 +216,19 @@
     "icon": "https://favicons.githubusercontent.com/handset.writeas.com",
     "slug": "handset",
     "status": "down",
-    "uptime": "18.42%",
+    "uptime": "18.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.42%",
+    "uptimeYear": "18.35%",
     "time": 416,
-    "timeDay": 219,
-    "timeWeek": 234,
-    "timeMonth": 222,
+    "timeDay": 203,
+    "timeWeek": 228,
+    "timeMonth": 223,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2021-12-08": 58,
+      "2021-12-09": 56,
+      "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
@@ -452,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 178,
+    "time": 432,
+    "timeDay": 162,
     "timeWeek": 252,
-    "timeMonth": 288,
-    "timeYear": 434,
+    "timeMonth": 282,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2021-11-13": 16
     }
