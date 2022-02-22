@@ -19,8 +19,8 @@ sites:
     url: https://dieselgoth.com
   - name: Chaff
     url: https://chaff.writeas.com/
-  - name: Handset (WP Test)
-    url: https://handsetmag.wordpress.com
+  - name: Iowa
+    url: https://iowa.neocities.org
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -29,7 +29,7 @@ status-website:
   name: Up!
   introTitle: "UP - EXTRANET STATUS"
   introMessage: This is an uptime monitor for the Extranet.
-  theme: ocean
+  theme: dark
   navbar:
     - title: Extranet Status
       href: /
