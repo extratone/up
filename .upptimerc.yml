@@ -11,14 +11,14 @@ sites:
     url: https://www.extratone.com
   - name: Bilge
     url: https://bilge.world
-  - name: XYZ
-    url: https://davidblue.xyz
-  - name: Social Directory (Notion)
-    url: https://www.notion.so/9fdc8e9610b34b8f991ebc148b760055?v=c170b58650c04fbdb7adc551a73d16a7
+  - name: ~
+    url: https://tilde.town/~extratone
+  - name: UIKeyCommand
+    url: https://uikeycommand.com
   - name: Honk
     url: https://dieselgoth.com
-  - name: Handset
-    url: https://handset.writeas.com/
+  - name: Chaff
+    url: https://chaff.writeas.com/
   - name: Handset (WP Test)
     url: https://handsetmag.wordpress.com
 
@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://i.snap.as/lBCNqyG.png
   name: Up!
   introTitle: "UP - EXTRANET STATUS"
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: This is an uptime monitor for the Extranet.
   theme: ocean
   navbar:
     - title: Extranet Status
