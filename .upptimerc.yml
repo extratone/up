@@ -21,6 +21,8 @@ sites:
     url: https://chaff.writeas.com/
   - name: Iowa
     url: https://iowa.neocities.org
+  - name: RoutineHub
+    url: https://routinehub.co
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
