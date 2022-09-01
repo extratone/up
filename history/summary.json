@@ -16,7 +16,7 @@
     "timeMonth": 774,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2022-09-01": 689,
+      "2022-09-01": 707,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -194,7 +194,7 @@
     "timeMonth": 739,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2022-09-01": 689,
+      "2022-09-01": 708,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -389,19 +389,19 @@
     "url": "https://routinehub.co",
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 690,
-    "timeDay": 690,
-    "timeWeek": 690,
-    "timeMonth": 690,
-    "timeYear": 690,
+    "status": "up",
+    "uptime": "82.05%",
+    "uptimeDay": "82.05%",
+    "uptimeWeek": "82.05%",
+    "uptimeMonth": "82.05%",
+    "uptimeYear": "82.05%",
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-09-01": 0
+      "2022-09-01": 18
     }
   }
 ]
