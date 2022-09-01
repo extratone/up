@@ -6,8 +6,8 @@
     "slug": "extratone",
     "status": "up",
     "uptime": "74.50%",
-    "uptimeDay": "31.64%",
-    "uptimeWeek": "4.52%",
+    "uptimeDay": "32.97%",
+    "uptimeWeek": "4.71%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "58.51%",
     "time": 795,
@@ -184,8 +184,8 @@
     "slug": "bilge",
     "status": "up",
     "uptime": "81.54%",
-    "uptimeDay": "31.64%",
-    "uptimeWeek": "4.52%",
+    "uptimeDay": "32.97%",
+    "uptimeWeek": "4.71%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "70.07%",
     "time": 1304,
@@ -389,19 +389,19 @@
     "url": "https://routinehub.co",
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
-    "status": "down",
-    "uptime": "90.42%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "90.42%",
+    "status": "up",
+    "uptime": "87.92%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "87.92%",
+    "uptimeYear": "87.92%",
     "time": 576,
     "timeDay": 576,
     "timeWeek": 576,
     "timeMonth": 576,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2022-09-01": 63
+      "2022-09-01": 82
     }
   }
 ]
