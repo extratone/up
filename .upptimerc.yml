@@ -11,8 +11,6 @@ sites:
     url: https://www.extratone.com
   - name: Bilge
     url: https://bilge.world
-  - name: ~
-    url: https://tilde.town/~extratone
   - name: UIKeyCommand
     url: https://uikeycommand.com
   - name: Honk
