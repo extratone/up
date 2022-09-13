@@ -8,7 +8,7 @@
     "uptime": "74.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.01%",
+    "uptimeMonth": "38.42%",
     "uptimeYear": "58.51%",
     "time": 792,
     "timeDay": 490,
@@ -186,7 +186,7 @@
     "uptime": "81.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.01%",
+    "uptimeMonth": "38.42%",
     "uptimeYear": "70.07%",
     "time": 1271,
     "timeDay": 504,
@@ -389,15 +389,15 @@
     "url": "https://routinehub.co",
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
-    "status": "up",
-    "uptime": "73.68%",
-    "uptimeDay": "81.08%",
-    "uptimeWeek": "74.09%",
-    "uptimeMonth": "73.68%",
-    "uptimeYear": "73.68%",
+    "status": "down",
+    "uptime": "74.11%",
+    "uptimeDay": "84.47%",
+    "uptimeWeek": "74.08%",
+    "uptimeMonth": "74.11%",
+    "uptimeYear": "74.11%",
     "time": 386,
-    "timeDay": 366,
-    "timeWeek": 346,
+    "timeDay": 277,
+    "timeWeek": 348,
     "timeMonth": 386,
     "timeYear": 386,
     "dailyMinutesDown": {
@@ -413,7 +413,7 @@
       "2022-09-04": 508,
       "2022-09-03": 666,
       "2022-09-02": 260,
-      "2022-09-01": 65
+      "2022-09-01": 37
     }
   }
 ]
