@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.extratone.com.ico",
     "slug": "extratone",
     "status": "up",
-    "uptime": "76.49%",
+    "uptime": "76.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -377,18 +377,19 @@
     "url": "https://routinehub.co",
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
-    "status": "up",
-    "uptime": "93.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.68%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "93.37%",
+    "uptimeYear": "93.68%",
     "time": 466,
     "timeDay": 496,
     "timeWeek": 449,
     "timeMonth": 1271,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2022-10-23": 0,
       "2022-10-20": 26,
       "2022-10-19": 22,
       "2022-10-15": 47,
@@ -405,8 +406,7 @@
       "2022-09-06": 345,
       "2022-09-05": 244,
       "2022-09-04": 508,
-      "2022-09-03": 666,
-      "2022-09-02": 13
+      "2022-09-03": 469
     }
   }
 ]
