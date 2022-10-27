@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.extratone.com.ico",
     "slug": "extratone",
     "status": "up",
-    "uptime": "76.64%",
+    "uptime": "76.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -178,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bilge.world.ico",
     "slug": "bilge",
     "status": "up",
-    "uptime": "83.09%",
+    "uptime": "83.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -377,12 +377,12 @@
     "url": "https://routinehub.co",
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
-    "status": "up",
-    "uptime": "93.50%",
-    "uptimeDay": "75.92%",
+    "status": "down",
+    "uptime": "93.59%",
+    "uptimeDay": "91.51%",
     "uptimeWeek": "93.34%",
     "uptimeMonth": "98.00%",
-    "uptimeYear": "93.50%",
+    "uptimeYear": "93.59%",
     "time": 505,
     "timeDay": 3767,
     "timeWeek": 1961,
@@ -408,7 +408,7 @@
       "2022-09-06": 345,
       "2022-09-05": 244,
       "2022-09-04": 508,
-      "2022-09-03": 330
+      "2022-09-03": 309
     }
   }
 ]
