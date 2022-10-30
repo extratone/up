@@ -359,9 +359,9 @@
     "url": "https://iowa.neocities.org",
     "icon": "https://icons.duckduckgo.com/ip3/iowa.neocities.org.ico",
     "slug": "iowa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -370,7 +370,9 @@
     "timeWeek": 302,
     "timeMonth": 438,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-30": 0
+    }
   },
   {
     "name": "RoutineHub",
@@ -378,18 +380,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
     "status": "down",
-    "uptime": "91.29%",
+    "uptime": "91.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "91.29%",
+    "uptimeWeek": "71.21%",
+    "uptimeMonth": "93.08%",
+    "uptimeYear": "91.20%",
     "time": 502,
     "timeDay": 124,
     "timeWeek": 1755,
     "timeMonth": 1088,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-10-30": 124,
+      "2022-10-30": 208,
       "2022-10-29": 1440,
       "2022-10-28": 590,
       "2022-10-27": 88,
