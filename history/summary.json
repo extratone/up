@@ -379,12 +379,12 @@
     "url": "https://routinehub.co",
     "icon": "https://icons.duckduckgo.com/ip3/routinehub.co.ico",
     "slug": "routine-hub",
-    "status": "up",
-    "uptime": "66.73%",
-    "uptimeDay": "88.16%",
+    "status": "down",
+    "uptime": "66.79%",
+    "uptimeDay": "88.14%",
     "uptimeWeek": "97.35%",
-    "uptimeMonth": "29.53%",
-    "uptimeYear": "66.73%",
+    "uptimeMonth": "29.67%",
+    "uptimeYear": "66.79%",
     "time": 481,
     "timeDay": 515,
     "timeWeek": 578,
@@ -440,7 +440,7 @@
       "2022-09-06": 345,
       "2022-09-05": 244,
       "2022-09-04": 508,
-      "2022-09-03": 245
+      "2022-09-03": 186
     }
   }
 ]
