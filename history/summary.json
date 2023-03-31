@@ -319,19 +319,19 @@
     "url": "https://uikeycommand.com",
     "icon": "https://icons.duckduckgo.com/ip3/uikeycommand.com.ico",
     "slug": "ui-key-command",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1126,
-    "timeDay": 111,
-    "timeWeek": 601,
-    "timeMonth": 1964,
-    "timeYear": 1126,
+    "time": 1121,
+    "timeDay": 158,
+    "timeWeek": 544,
+    "timeMonth": 1903,
+    "timeYear": 1121,
     "dailyMinutesDown": {
-      "2023-03-31": 0
+      "2023-03-31": 15
     }
   },
   {
@@ -422,7 +422,7 @@
     "timeMonth": 65,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-03-31": 1199,
+      "2023-03-31": 1214,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
